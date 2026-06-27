@@ -29,4 +29,4 @@ A dynamic e-commerce web application developed as part of my HND in Web Developm
 
 ## Live Demo
 
-
+http://webdev.edinburghcollege.ac.uk/HNCWEBMR18/MythosGames/primary_pages/index.php
