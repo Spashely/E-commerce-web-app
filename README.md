@@ -16,6 +16,7 @@ A dynamic e-commerce web application developed as part of my HND in Web Developm
 
 - HTML
 - CSS
+- PHP
 - JavaScript
 - SQL
 ## What I Learned
